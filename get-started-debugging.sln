@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get-started-debugging", "get-started-debugging\get-started-debugging.csproj", "{ABC57742-5CF8-4876-9368-F5FE5026B437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC57742-5CF8-4876-9368-F5FE5026B437}.Debug|x86.ActiveCfg = Debug|x86
+		{ABC57742-5CF8-4876-9368-F5FE5026B437}.Debug|x86.Build.0 = Debug|x86
+		{ABC57742-5CF8-4876-9368-F5FE5026B437}.Release|x86.ActiveCfg = Release|x86
+		{ABC57742-5CF8-4876-9368-F5FE5026B437}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
